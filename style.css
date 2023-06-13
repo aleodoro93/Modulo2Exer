@@ -1,0 +1,37 @@
+body {
+    background: black;
+
+}
+
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: fit-content;
+    height: fit-content;
+    padding: 10px;
+    background-color: orange;
+
+}
+
+.divUm {
+    background: blue;
+    width: 100px;
+    height: 100px;
+}
+
+
+.divDois {
+    background: yellow;
+    width: 100px;
+    height: 100px;
+}
+
+
+.divTres {
+    background: rgb(9, 255, 0);
+
+    width: 100px;
+    height: 100px;
+}
